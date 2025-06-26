@@ -26,22 +26,22 @@ Narrative Boxは、**株式会社OPQRST**が開発した、AIを用いて模擬�
 
 Narrative Box
 
-|-　日本語：言語ごとに分けています
-　|-　Medical：医師の臨床のNarrative
-　　|-　疾患事に分けています
-　　　　|-　Vignette：診断名から生成したVignette（症例集）です
-　　　　　　|-　Dialogue：Vignetteから生成したDialogue（医師と患者の対話）です
-　　　　|-　SQ：診断名から生成したSemantic Qualifierです
-　　　　|-　Illness script：診断名から生成したIllness Scriptです
-　　　　　　|-　gpt-40-2024-08-06：モデルごとに分けています。
-　　　　　　　|-　医師が修正したテキスト
-　|-　Nurseing:看護師のケア現場のNarrative
-　|-　Legal：法曹関係者のNarrative
-　|-　School Health：養護教諭のNarrative
-|-　English
-|-　Spanish
-|-　中国語（北京語）
-⋮
+|-　日本語：言語ごとに分けています  
+　|-　Medical：医師の臨床のNarrative  
+　　|-　疾患事に分けています  
+　　　　|-　Vignette：診断名から生成したVignette（症例集）です  
+　　　　　　|-　Dialogue：Vignetteから生成したDialogue（医師と患者の対話）です  
+　　　　|-　SQ：診断名から生成したSemantic Qualifierです  
+　　　　|-　Illness script：診断名から生成したIllness Scriptです  
+　　　　　　|-　gpt-40-2024-08-06：モデルごとに分けています。  
+　　　　　　　|-　医師が修正したテキスト  
+　|-　Nurseing:看護師のケア現場のNarrative  
+　|-　Legal：法曹関係者のNarrative  
+　|-　School Health：養護教諭のNarrative  
+|-　English  
+|-　Spanish  
+|-　中国語（北京語）  
+⋮  
 
 ## 使用モデル
 現在はOpenAI社のモデルを使用しています。
