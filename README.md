@@ -1,7 +1,5 @@
 # narrative-box
 
-<!-- ![Image](https://github.com/user-attachments/assets/3396854e-a1aa-4cf0-bea5-f0311c0edcb1) -->
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3396854e-a1aa-4cf0-bea5-f0311c0edcb1" width="300">
 </p>
