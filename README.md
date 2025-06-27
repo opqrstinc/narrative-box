@@ -28,9 +28,9 @@ Narrative Box
 
 |-　日本語：言語ごとに分けています  
 　|-　Medical：医師の臨床のNarrative  
-　　|-　疾患事に分けています  
+　　|-　疾患ごとに分けています  
 　　　　|-　Vignette：診断名から生成したVignette（症例集）です  
-　　　　　　|-　Dialogue：Vignetteから生成したDialogue（医師と患者の対話）です  
+　　　　|-　Dialogue：Vignetteから生成したDialogue（医師と患者の対話）です  
 　　　　|-　SQ：診断名から生成したSemantic Qualifierです  
 　　　　|-　Illness script：診断名から生成したIllness Scriptです  
 　　　　　　|-　gpt-40-2024-08-06：モデルごとに分けています。  
@@ -39,8 +39,8 @@ Narrative Box
 　|-　Legal：法曹関係者のNarrative  
 　|-　School Health：養護教諭のNarrative  
 |-　English  
-|-　Spanish  
-|-　中国語（北京語）  
+|-　Español  
+|-　中文（普通话）  
 ⋮  
 
 ## 使用モデル
@@ -62,4 +62,4 @@ https://platform.openai.com/docs/models
 ## コンタクト
 ご質問やご提案がございましたら、Issueを作成するか、以下の連絡先までご連絡ください。
 - Email: contact@opqrst.co.jp
-- 公式サイト: https://opqrst.co.jp/
+- 公式サイト: https://www.opqrst.co.jp/
