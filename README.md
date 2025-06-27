@@ -28,7 +28,7 @@ Narrative Box
 
 |-　日本語：言語ごとに分けています  
 　|-　Medical：医師の臨床のNarrative  
-　　|-　疾患ごとに分けています  
+　　|-　Disease：疾患ごとに分けています  
 　　　　|-　Vignette：診断名から生成したVignette（症例集）です  
 　　　　|-　Dialogue：Vignetteから生成したDialogue（医師と患者の対話）です  
 　　　　|-　SQ：診断名から生成したSemantic Qualifierです  
