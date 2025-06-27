@@ -34,7 +34,7 @@ Narrative Box
 　　　　|-　SQ：診断名から生成したSemantic Qualifierです  
 　　　　|-　Illness script：診断名から生成したIllness Scriptです  
 　　　　　　|-　gpt-40-2024-08-06：モデルごとに分けています。  
-　　　　　　　|-　医師が修正したテキスト  
+　　　　　　|-　gpt-40-2024-08-06_MD-modified：専門家（医師）が修正したテキスト  
 　|-　Nurseing:看護師のケア現場のNarrative  
 　|-　Legal：法曹関係者のNarrative  
 　|-　School Health：養護教諭のNarrative  
