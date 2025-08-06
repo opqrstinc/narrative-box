@@ -35,7 +35,7 @@ Narrative box
 　　　  |-　Illness script：診断名から生成したIllness Scriptです 
        |-　Questionnaire：診断名から生成した問診票です  
 　　　　　　|-　診断名_書類種類_使用モデル_通し番号.yaml　書類本文です  
-　　　　　　|-　診断名_書類種類_使用モデル_通し番号.yamlMD-modified：専門家（医師）が修正したテキスト  
+　　　　　　|-　診断名_書類種類_使用モデル_通し番号_MD-modified.yaml：専門家（医師）が修正したテキスト  
 　|-　Nurseing:看護師のケア現場のNarrative  
 　|-　Legal：法曹関係者のNarrative  
 　|-　School Health：養護教諭のNarrative  
@@ -45,7 +45,7 @@ Narrative box
 ⋮  
 
 ## 書類本文形式
-YAML形式を使用しています。メタデータとしてNarrative boxの構成や仕様モデル、作成に使用した情報などを含みます。
+YAML形式を使用しています。メタデータとしてNarrative boxの構成や使用モデル、作成に使用した情報などを含みます。
 
 ## 使用モデル
 現在はOpenAI社のモデルを使用しています。
